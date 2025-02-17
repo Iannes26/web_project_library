@@ -117,6 +117,7 @@
   max-width: 760px;
   margin: auto;
   margin-top: 68px;
+  margin-bottom: 0;
   flex-wrap: wrap;
   gap: 40px;
   justify-content: center;
